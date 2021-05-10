@@ -52,9 +52,12 @@ Faire un algorithme qui détermine la longueur d’une chaîne de caractères.
 
 ### EX 6
 
-Faire une fonction de concaténation (ajoute à la fin de la première chaîne de caractères le contenu de la deuxième chaîne de caractères.)
-Faire une fonction de Comparaison qui compare deux chaînes de caractères suivant l’ordre lexicographique.
+Faire une fonction de concaténation (ajoute à la fin de la première chaîne de caractères le contenu de la deuxième chaîne de caractères.) 
+
+Faire une fonction de Comparaison qui compare deux chaînes de caractères suivant l’ordre lexicographique. 
+
 Faire une fonction qui efface une partie de la chaîne en spécifiant une longueur d’effacement et un indice à partir duquel il faut effacer.
+
 
 ### EX 7
 
