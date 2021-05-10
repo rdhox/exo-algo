@@ -65,10 +65,10 @@ Ecrire un algorithme qui affiche la moyenne d’une suite d’entiers
 
 ### EX 8
 
-Ecrire une fonction max3 qui retourne le maximum de trois entiers
-Ecrire une fonction min3 qui retourne le minimum de trois entiers
-Ecrire une fonction max2 qui retourne le maximum de deux entiers
-Ecrire une fonction max3 qui retourne le maximum de trois entiers en faisant appel à max2
+Ecrire une fonction max3 qui retourne le maximum de trois entiers  
+Ecrire une fonction min3 qui retourne le minimum de trois entiers  
+Ecrire une fonction max2 qui retourne le maximum de deux entiers  
+Ecrire une fonction max3 qui retourne le maximum de trois entiers en faisant appel à max2  
 
 ### EX 9
 
