@@ -36,8 +36,7 @@ NB : la factorielle de 8, notée 8 !, vaut
 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8
 
 
-
-### EX 2
+### EX 4
 
 Écrire un algorithme qui permette de connaître ses chances de gagner au tiercé, quarté, quinté et autres impôts volontaires.
 
@@ -50,5 +49,35 @@ X et Y nous sont donnés par la formule suivante, si n est le nombre de chevaux 
 
 X = n ! / (n - p) !
 Y = n ! / (p ! * (n – p) !)
+
+## Traitements divers
+
+### EX 5
+
+Faire un algorithme qui détermine la longueur d’une chaîne de caractères.
+
+### EX 6
+
+Faire une fonction de concaténation (ajoute à la fin de la première chaîne de caractères le contenu de la deuxième chaîne de caractères.)
+Faire une fonction de Comparaison qui compare deux chaînes de caractères suivant l’ordre lexicographique.
+Faire une fonction qui efface une partie de la chaîne en spécifiant une longueur d’effacement et un indice à partir duquel il faut effacer.
+
+### EX 7
+
+Ecrire un algorithme qui affiche la moyenne d’une suite d’entiers
+
+### EX 8
+
+Ecrire une fonction max3 qui retourne le maximum de trois entiers
+Ecrire une fonction min3 qui retourne le minimum de trois entiers
+Ecrire une fonction max2 qui retourne le maximum de deux entiers
+Ecrire une fonction max3 qui retourne le maximum de trois entiers en faisant appel à max2
+
+### EX 9
+
+Ecrire une action qui fournit les félicitations ou l’ajournement d’un élève suivant sa note en utilisant Si-alors-sinon.
+
+
+
 
 
